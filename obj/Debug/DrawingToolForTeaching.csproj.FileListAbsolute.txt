@@ -8,3 +8,13 @@ C:\Users\jeff_\source\repos\DrawingToolForTeaching\DrawingToolForTeaching\obj\De
 C:\Users\jeff_\source\repos\DrawingToolForTeaching\DrawingToolForTeaching\obj\Debug\DrawingToolForTeaching.csproj.CoreCompileInputs.cache
 C:\Users\jeff_\source\repos\DrawingToolForTeaching\DrawingToolForTeaching\obj\Debug\DrawingToolForTeaching.exe
 C:\Users\jeff_\source\repos\DrawingToolForTeaching\DrawingToolForTeaching\obj\Debug\DrawingToolForTeaching.pdb
+C:\Users\jeff_\Desktop\Drawings\TeachingTool\DrawingToolForTeaching\DrawingToolTeaching\bin\Debug\DrawingToolForTeaching.exe.config
+C:\Users\jeff_\Desktop\Drawings\TeachingTool\DrawingToolForTeaching\DrawingToolTeaching\bin\Debug\DrawingToolForTeaching.exe
+C:\Users\jeff_\Desktop\Drawings\TeachingTool\DrawingToolForTeaching\DrawingToolTeaching\bin\Debug\DrawingToolForTeaching.pdb
+C:\Users\jeff_\Desktop\Drawings\TeachingTool\DrawingToolForTeaching\DrawingToolTeaching\obj\Debug\DrawingToolForTeaching.csprojAssemblyReference.cache
+C:\Users\jeff_\Desktop\Drawings\TeachingTool\DrawingToolForTeaching\DrawingToolTeaching\obj\Debug\DrawingToolForTeaching.Form1.resources
+C:\Users\jeff_\Desktop\Drawings\TeachingTool\DrawingToolForTeaching\DrawingToolTeaching\obj\Debug\DrawingToolForTeaching.Properties.Resources.resources
+C:\Users\jeff_\Desktop\Drawings\TeachingTool\DrawingToolForTeaching\DrawingToolTeaching\obj\Debug\DrawingToolForTeaching.csproj.GenerateResource.cache
+C:\Users\jeff_\Desktop\Drawings\TeachingTool\DrawingToolForTeaching\DrawingToolTeaching\obj\Debug\DrawingToolForTeaching.csproj.CoreCompileInputs.cache
+C:\Users\jeff_\Desktop\Drawings\TeachingTool\DrawingToolForTeaching\DrawingToolTeaching\obj\Debug\DrawingToolForTeaching.exe
+C:\Users\jeff_\Desktop\Drawings\TeachingTool\DrawingToolForTeaching\DrawingToolTeaching\obj\Debug\DrawingToolForTeaching.pdb

@@ -1,9 +1,9 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 16
-VisualStudioVersion = 16.0.29827.131
+VisualStudioVersion = 16.0.30128.36
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DrawingToolForTeaching", "DrawingToolForTeaching\DrawingToolForTeaching.csproj", "{1AA91412-259F-4C26-880E-C8C8D4E8CFA7}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DrawingToolForTeaching", "DrawingToolForTeaching.csproj", "{1AA91412-259F-4C26-880E-C8C8D4E8CFA7}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -20,6 +20,6 @@ Global
 		HideSolutionNode = FALSE
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
-		SolutionGuid = {8F097BD1-B004-46F2-BDB0-760B7FFA0863}
+		SolutionGuid = {33640B06-939E-4781-A1CE-46D90E210CD3}
 	EndGlobalSection
 EndGlobal
