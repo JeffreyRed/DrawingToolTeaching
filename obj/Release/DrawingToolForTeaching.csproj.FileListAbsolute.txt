@@ -1,0 +1,9 @@
+C:\Users\jeff_\source\repos\DrawingToolForTeaching\DrawingToolForTeaching\bin\Release\DrawingToolForTeaching.exe.config
+C:\Users\jeff_\source\repos\DrawingToolForTeaching\DrawingToolForTeaching\bin\Release\DrawingToolForTeaching.exe
+C:\Users\jeff_\source\repos\DrawingToolForTeaching\DrawingToolForTeaching\bin\Release\DrawingToolForTeaching.pdb
+C:\Users\jeff_\source\repos\DrawingToolForTeaching\DrawingToolForTeaching\obj\Release\DrawingToolForTeaching.Form1.resources
+C:\Users\jeff_\source\repos\DrawingToolForTeaching\DrawingToolForTeaching\obj\Release\DrawingToolForTeaching.Properties.Resources.resources
+C:\Users\jeff_\source\repos\DrawingToolForTeaching\DrawingToolForTeaching\obj\Release\DrawingToolForTeaching.csproj.GenerateResource.cache
+C:\Users\jeff_\source\repos\DrawingToolForTeaching\DrawingToolForTeaching\obj\Release\DrawingToolForTeaching.csproj.CoreCompileInputs.cache
+C:\Users\jeff_\source\repos\DrawingToolForTeaching\DrawingToolForTeaching\obj\Release\DrawingToolForTeaching.exe
+C:\Users\jeff_\source\repos\DrawingToolForTeaching\DrawingToolForTeaching\obj\Release\DrawingToolForTeaching.pdb
